@@ -3,7 +3,7 @@ Módulo 5 - Vem ser Tech - ADA
 
 # Trabalho conclusão de módulo
 
-##Descrição do Projeto:
+Descrição do Projeto:
 
 # Projeto de Técnicas de Programação I
 
